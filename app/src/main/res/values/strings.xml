@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">My project</string>
+    <string name="txt_jugar">PLAY</string>
+    <string name="txt_perfil">PROFILE</string>
+    <string name="txt_ajustes">CONFIG</string>
+    <string name="txt_acerda_de">ABOUT</string>
+    <string name="txt_cerrar">CLOSE</string>
+    <string name="txt_usuario">USER</string>
+    <string name="txt_contrasena">PASSWORD</string>
+    <string name="txt_login">SIGN IN</string>
+    <string name="txt_registro">NEXT</string>
+    <string name="txt_Terminos_y_condiciones">TERMS AND CONDITIONS</string>
+    <string name="txt_nombres">NAMES</string>
+    <string name="txt_apellidos">LAST_NAMES</string>
+    <string name="txt_correo">EMAIL</string>
+    <string name="btn_acepto">Acept</string>
+    <string name="btn_no_acepto">I do not accept</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="txt_parrafo">The following privacy policy sets out the terms on which our Teams 8 PRO application uses and protects the information that is provided by its users when using this application.   by its users when using this application. This company is committed to the security of its users\' data. When we ask you to   When we ask you to fill in personal information fields with which you can be identified, we do so with the assurance that it will only be used in accordance with the terms of this document.  this document. However, this Privacy Policy may change over time or be updated, so we recommend and emphasize that you continually review this page to ensure that you agree with the terms of this Privacy Policy.  this page to ensure that you are happy with any such changes</string>
+    <string name="txt_titulo">privacy policy</string>
+    <string name="txt_titulo_uno">Use of information</string>
+    <string name="txt_titulo_dos">Links to third parties</string>
+    <string name="txt_parrafo_dos">Our application may contain links to other sites that may be of interest to you. Once you click on these links and leave our site,  we no longer have control over the site to which you are redirected and therefore we are not responsible for the terms or privacy or data protection of those other third party sites.  Those sites are subject to their own privacy policies and we recommend that you check with them to confirm that you agree with them.</string>
+    <string name="txt_parrafo_uno">Our application uses the information in order to provide the best possible service, particularly to maintain  a record of users, to keep track of orders if applicable, and to improve our products and services.  We may periodically send emails through our site with special offers.   through our site with special offers, new products and other advertising information that we feel may be relevant to you or may be of benefit to you.  These emails will be sent to the address you provide and may be cancelled at any time.</string>
+
+
+</resources>

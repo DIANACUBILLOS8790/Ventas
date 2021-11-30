@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "526102660437",
+    "firebase_url": "https://teams-8-pro-default-rtdb.firebaseio.com",
+    "project_id": "teams-8-pro",
+    "storage_bucket": "teams-8-pro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526102660437:android:cfe0e6eb9d436b208adbdc",
+        "android_client_info": {
+          "package_name": "com.mintic.miproyecto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526102660437-q86cj2ho02vbfqqm3cveorc51ssf3b5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjizad-ipOcYrQ6pl5Z9UASDVKVsy18qM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526102660437-q86cj2ho02vbfqqm3cveorc51ssf3b5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

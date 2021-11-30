@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="style" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">15dp</item>
+        <item name="android:layout_marginLeft">3dp</item>
+        <item name="android:layout_marginTop">05dp</item>
+    </style>
+
+    <style name="MyEditText" parent="@android:style/Widget.TextView">
+        <item name="android:background">@drawable/campo_redondeado</item>
+        <item name="android:padding">10dp</item>
+    </style>
+    <style name="Borde" parent="@android:style/Widget.TextView">
+        <item name="android:background">@drawable/nuevo_campo</item>
+        <item name="android:padding">10dp</item>
+    </style>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Мой проект</string>
+    <string name="txt_jugar">ИГРАТЬ</string>
+    <string name="txt_perfil">ПРОФИЛЬ</string>
+    <string name="txt_ajustes">НАСТРОЙКИ</string>
+    <string name="txt_acerda_de">О</string>
+    <string name="txt_cerrar">закрыть</string>
+    <string name="txt_usuario">ПОЛЬЗОВАТЕЛЬ</string>
+    <string name="txt_login">СЕАНС ВХОДА</string>
+    <string name="txt_contrasena">ПАРОЛЬ</string>
+    <string name="txt_registro">РЕГИСТРО</string>
+    <string name="txt_Terminos_y_condiciones">Положения и условия</string>
+    <string name="txt_nombres">"ИМЕНА "</string>
+    <string name="txt_apellidos">"ПСЕВДОНИМЫ "</string>
+    <string name="txt_correo">ЕМАЙЛ</string>
+
+</resources>
