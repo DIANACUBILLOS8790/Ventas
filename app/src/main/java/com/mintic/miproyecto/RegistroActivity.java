@@ -17,7 +17,7 @@ public class RegistroActivity extends AppCompatActivity {
 
     private Button btn_next;
     private EditText edt_password;
-    private Activity miactividad;
+    private Activity myactivity;
 
 
     @Override
@@ -25,7 +25,7 @@ public class RegistroActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_registro);
 
-        miactividad = this;
+        myactivity = this;
 
 
         btn_next = findViewById(R.id.btn_next);
@@ -33,15 +33,16 @@ public class RegistroActivity extends AppCompatActivity {
 
 
 
-       btn_next.setOnClickListener(new View.OnClickListener() {
+        btn_next.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
 
                 String password = edt_password.getText().toString();
                 if (password.length() < 8 && !isValidPassword(password)) {
                     Toast.makeText(RegistroActivity.this, " Invalid password ", Toast.LENGTH_SHORT).show();/*Hace visible el texto */
-               } else {
-                    startActivity(new Intent(miactividad, TerminosActivity.class));
+                } else {
+                    startActivity(new Intent(myactivity, TerminosActivity.class));
+
                 }
             }
         });

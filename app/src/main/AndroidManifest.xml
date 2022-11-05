@@ -11,7 +11,7 @@
         android:theme="@style/Theme.Miproyecto" >
         <activity
             android:name=".TerminosActivity"
-            android:exported="false"
+            android:exported="true"
             android:theme="@style/Theme.Miproyecto.NoActionBar"/>
         <activity
             android:name=".MenuActivity"
@@ -20,7 +20,8 @@
             android:theme="@style/Theme.Miproyecto.NoActionBar" />
         <activity
             android:name=".RegistroActivity"
-            android:exported="false" />
+            android:exported="false"
+            android:theme="@style/Theme.Miproyecto.NoActionBar" />
         <activity
             android:name=".LoginActivity"
             android:exported="true"

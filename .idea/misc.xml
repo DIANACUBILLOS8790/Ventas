@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidStudioProjects/Team 8 PRO/app/src/main/res/layout/activity_login.xml" value="0.27291666666666664" />
+        <entry key="..\:/AndroidStudioProjects/Team 8 PRO/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/AndroidStudioProjects/Team 8 PRO/app/src/main/res/layout/activity_terminos.xml" value="0.25" />
         <entry key="..\:/Users/USUARIO/AndroidStudioProjects/Miproyecto/app/src/main/res/drawable/borde.xml" value="0.20625" />
         <entry key="..\:/Users/USUARIO/AndroidStudioProjects/Miproyecto/app/src/main/res/drawable/boton_redondeado.xml" value="0.2734375" />
         <entry key="..\:/Users/USUARIO/AndroidStudioProjects/Miproyecto/app/src/main/res/drawable/campo_redondeado.xml" value="0.1" />
@@ -20,7 +23,7 @@
         <entry key="..\:/Users/USUARIO/AndroidStudioProjects/Miproyecto/app/src/main/res/menu/activity_main_drawer.xml" value="0.67" />
         <entry key="..\:/Users/USUARIO/AndroidStudioProjects/Team 8 PRO/app/src/main/res/layout/activity_login.xml" value="0.22" />
         <entry key="..\:/Users/USUARIO/AndroidStudioProjects/Team 8 PRO/app/src/main/res/layout/activity_menu.xml" value="0.1094224924012158" />
-        <entry key="..\:/Users/USUARIO/AndroidStudioProjects/Team 8 PRO/app/src/main/res/layout/activity_registro.xml" value="0.25729166666666664" />
+        <entry key="..\:/Users/USUARIO/AndroidStudioProjects/Team 8 PRO/app/src/main/res/layout/activity_registro.xml" value="0.1" />
         <entry key="..\:/Users/USUARIO/AndroidStudioProjects/Team 8 PRO/app/src/main/res/layout/activity_termino.xml" value="0.1" />
         <entry key="..\:/Users/USUARIO/AndroidStudioProjects/Team 8 PRO/app/src/main/res/layout/activity_terminos.xml" value="0.33" />
         <entry key="..\:/Users/USUARIO/AndroidStudioProjects/Team 8 PRO/app/src/main/res/layout/activity_terminos2.xml" value="0.2557291666666667" />

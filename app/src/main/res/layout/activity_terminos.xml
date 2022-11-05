@@ -109,10 +109,7 @@
                 android:background="@drawable/boton_redondeado"
                 android:text="NEXT"/>
 
-
         </LinearLayout>
     </androidx.cardview.widget.CardView>
-
-
 
 </ScrollView>
